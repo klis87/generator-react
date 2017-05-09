@@ -1,0 +1,23 @@
+{
+  "name": "generator-react",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "Konrad Lisiczynski",
+    "email": "klisiczynski@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": "klis87/generator-react",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "1.1.1"
+  }
+}
